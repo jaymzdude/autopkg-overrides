@@ -25,7 +25,7 @@
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>Jaymz-%NAME%-%version%</string>
+                <string>All-%NAME%-%version%</string>
                 <key>pkg_request</key>
                 <dict>
                     <key>pkgdir</key>
