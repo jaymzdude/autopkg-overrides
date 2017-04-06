@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>com.jaymzdude.pkg.Firefox</string>
+	<string>com.github.jaymzdude.pkg.Firefox</string>
 	<key>Input</key>
 	<dict>
 		<key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
